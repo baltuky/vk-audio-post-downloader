@@ -15,7 +15,7 @@ VK_API_PREFIX = r"https://api.vk.com/method/"
 VK_API_VERSION = "5.52"
 MAX_FILE_NAME_LENGTH = 64
 ENCODING = "cp866"
-VERSION = 0.1
+VERSION = 1.0
 
 
 def print_logo():
